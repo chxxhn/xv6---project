@@ -27,7 +27,6 @@ xv6는 MIT에서 교육용으로 개발된 Unix 기반 운영체제로, 초기 U
 
 - **운영체제**: Ubuntu 16.04.6 LTS
 - **필수 패키지**: `build-essential`, `gcc-multilib`, `git`, `qemu`
-- 
 
 ### 환경 설정
 
