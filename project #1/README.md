@@ -54,5 +54,11 @@ xv6에서 Trap 처리 과정은 다음과 같습니다:
 
 `getreadcount()` 시스템 콜을 테스트하기 위해 사용자 프로그램 `readcount.c`를 작성합니다. `Makefile`에 `readcount` 프로그램을 추가하여 xv6에서 실행 가능하게 만듭니다.
 
----
+
+## 참고 자료
+
+- xv6 소스 코드: [GitHub 링크](https://github.com/mit-pdos/xv6-public)
+- xv6 해설서: [xv6 commentary PDF](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)
+- xv6 관련 참고서적: [xv6 source booklet PDF](https://pdos.csail.mit.edu/6.828/2018/xv6/xv6-rev11.pdf)
+
 
