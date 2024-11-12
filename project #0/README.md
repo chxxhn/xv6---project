@@ -34,3 +34,32 @@ xv6는 MIT에서 교육용으로 개발된 Unix 기반 운영체제로, 초기 U
 1. Ubuntu 업데이트:
    ```bash
    sudo apt-get upgrade
+
+2. 필수 패키지 설치:
+   ```bash
+   sudo apt-get install build-essential gcc-multilib git qemu
+
+### xv6 설치
+
+1. xv6 소스 코드 다운로드 및 압축 해제:
+   ```bash
+   tar -xzvf xv6-public.tar.gz
+   cd xv6-public
+
+2. 빌드:
+   ```bash
+   make
+
+## 커스터마이징
+
+xv6의 부팅 메시지에 본인의 학번과 이름을 출력하도록 초기 프로그램 코드를 수정하세요.
+
+## 참고 자료
+
+- xv6 소스 코드: [GitHub 링크](https://github.com/mit-pdos/xv6-public)
+- xv6 해설서: [xv6 commentary PDF](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)
+- xv6 관련 참고서적: [xv6 source booklet PDF](https://pdos.csail.mit.edu/6.828/2018/xv6/xv6-rev11.pdf)
+
+
+
+
