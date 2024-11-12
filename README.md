@@ -21,8 +21,7 @@
 - **설치 과정**: Ubuntu 16.04.6 LTS 환경에서 `build-essential`, `gcc-multilib`, `git`, `qemu` 패키지를 설치한 후 xv6 소스를 다운로드하고 빌드합니다.
 - **QEMU 실행**: xv6를 QEMU 에뮬레이터에서 실행하고, xv6 부팅 메시지에 학번과 이름을 표시하도록 수정합니다.
 
-[자세한 내용 보기](project #0/README.md)
-
+[자세한 내용 보기](project%20%230/README.md)
 
 
 ## Project 1: System Call
