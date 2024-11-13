@@ -14,7 +14,7 @@
 4. [Project 3: Stack Growth](#project-3-stack-growth)
 5. [Project 4: Copy-On-Write](#project-4-copy-on-write)
 
-
+---
 
 ## Project 0: Install xv6
 
